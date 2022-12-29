@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=cocopang&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=5FB636&height=300&section=header&text=cocopang&fontSize=90&fontColor=FFFFFF)
 
 ![c0c0pang's github stats](https://github-readme-stats.vercel.app/api?username=c0c0pang&show_icons=true)
 <!--
