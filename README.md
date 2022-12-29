@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5FB636&height=300&section=header&text=cocopang&fontSize=90&fontColor=FFFFFF)
-
+## Skills
+<img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">
+## Gitub stats
 ![c0c0pang's github stats](https://github-readme-stats.vercel.app/api?username=c0c0pang&show_icons=true)
 <!--
 **c0c0pang/c0c0pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
