@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">
 ## Gitub stats
 ![c0c0pang's github stats](https://github-readme-stats.vercel.app/api?username=c0c0pang&show_icons=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coc178)](https://solved.ac/coc178/)
 <!--
 **c0c0pang/c0c0pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
