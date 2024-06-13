@@ -5,6 +5,9 @@
 ![c0c0pang's github stats](https://github-readme-stats.vercel.app/api?username=c0c0pang&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coc178)](https://solved.ac/coc178/)
+
+[![](https://github.com/c0c0pang/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+
 <!--
 **c0c0pang/c0c0pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
