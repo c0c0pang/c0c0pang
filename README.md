@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0c0pang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Skills
 <img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=JS&logoColor=black"> 
 ## Gitub stats
@@ -7,6 +6,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coc178)](https://solved.ac/coc178/)
 
 [![](https://github.com/c0c0pang/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0c0pang%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **c0c0pang/c0c0pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
