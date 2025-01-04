@@ -1,3 +1,6 @@
+## 소개
+나는 개발자다.
+
 ## Skills
 <img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=JS&logoColor=black"> 
 ## Gitub stats
