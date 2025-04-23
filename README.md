@@ -1,5 +1,5 @@
 ## 소개
-나는 개발자다.
+![아이좋아-격기3반](https://github.com/user-attachments/assets/039144dd-83f6-49cf-8116-77b01051eb2b)
 
 ## Skills
 <img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=JS&logoColor=black"> 
