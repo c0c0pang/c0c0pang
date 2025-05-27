@@ -1,5 +1,6 @@
 ## 소개
-![용서해라, 백엔드  (1)](https://github.com/user-attachments/assets/947f7de0-85eb-4e47-a2d3-5a925bbe052d)
+![용서해라, 프론트  (1)](https://github.com/user-attachments/assets/e05d0df1-bdc4-41be-a6fe-8d65eebed5bc)
+
 ![퇴사할까](https://github.com/user-attachments/assets/02d5a141-ffb4-4fbb-ae29-8c6f4b9f4209)
 
 
