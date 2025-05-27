@@ -1,5 +1,7 @@
 ## 소개
-![아이좋아-격기3반](https://github.com/user-attachments/assets/039144dd-83f6-49cf-8116-77b01051eb2b)
+![용서해라, 백엔드  (1)](https://github.com/user-attachments/assets/947f7de0-85eb-4e47-a2d3-5a925bbe052d)
+![퇴사할까](https://github.com/user-attachments/assets/02d5a141-ffb4-4fbb-ae29-8c6f4b9f4209)
+
 
 ## Skills
 <img src="https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/Ts-25378A?style=for-the-badge&logo=JS&logoColor=black"> <img src="https://img.shields.io/badge/React-9DD3FA?style=for-the-badge&logo=JS&logoColor=black">  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=JS&logoColor=black"> 
